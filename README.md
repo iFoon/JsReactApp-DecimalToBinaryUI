@@ -1,5 +1,4 @@
-# Practice-1
-Create UI DecimalToBinary
+# Practice-1 Create UI DecimalToBinary
 =======
 # Getting Started with Create React App
 
